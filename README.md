@@ -5,21 +5,17 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="500" alt="header gif" />
-</p>
-
-<p align="center">
-  <a href="https://www.github.com/divinwix12">
-    <img src="https://komarev.com/ghpvc/?username=divinwix12&label=Profile%20Views&color=0891b2&style=flat" alt="Profile views" />
+  <a href="https://www.github.com/divinwix-12">
+    <img src="https://komarev.com/ghpvc/?username=divinwix-12&label=Profile%20Views&color=0891b2&style=flat" alt="Profile views" />
   </a>
-  <img src="https://img.shields.io/github/followers/divinwix12?label=Followers&style=flat&color=0891b2" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/followers/divinwix-12?label=Followers&style=flat&color=0891b2" alt="GitHub followers" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🏢 Co-founder & Web Developer at **[Devigo](https://github.com/divinwix12)** — software & AI solutions for African markets
+- 🏢 Co-founder & Web Developer at **[Devigo](https://github.com/divinwix-12)** — software & AI solutions for African markets
 - 🛠️ I build custom software, SaaS platforms, AI integrations, and cloud infrastructure
 - 🌍 Based in **Kigali, Rwanda**
 - 💡 Currently exploring ways to bring AI automation to small and growing businesses
@@ -101,20 +97,20 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=divinwix12&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="divinwix12's GitHub stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=divinwix12&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub streak stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=divinwix-12&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="divinwix-12's GitHub stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=divinwix-12&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub streak stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divinwix12&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&layout=compact" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divinwix-12&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&layout=compact" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=divinwix12&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=divinwix-12&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=divinwix12&theme=react-dark&bg_color=1c1917&color=0891b2&line=0891b2&point=ffffff&hide_border=true" alt="Contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=divinwix-12&theme=react-dark&bg_color=1c1917&color=0891b2&line=0891b2&point=ffffff&hide_border=true" alt="Contribution graph" />
 </p>
 
 ---
@@ -122,7 +118,7 @@
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.github.com/divinwix12" target="_blank" rel="noreferrer">
+  <a href="https://www.github.com/divinwix-12" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" />
   </a>
   <a href="mailto:wixdivin@gmail.com" target="_blank" rel="noreferrer">
