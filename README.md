@@ -5,7 +5,7 @@
 <tr>
 <td width="380" valign="top">
 
-<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="360" alt="Divin" />
+<img src="https://avatars.githubusercontent.com/u/237926609?v=4" width="360" alt="Divin" />
 
 </td>
 <td valign="top">
