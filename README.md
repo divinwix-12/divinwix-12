@@ -1,25 +1,63 @@
-<h1 align="center">Hi there, I'm Divin 👋</h1>
+<h1 align="left">Divin</h1>
+<h3 align="left">@divinwix-12</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0891B2&center=true&vCenter=true&width=600&lines=Web+Developer;Co-founder+%40+Devigo;Building+AI-powered+software+for+Africa;Turning+ideas+into+products" alt="Typing SVG" />
-</p>
+<table>
+<tr>
+<td width="380" valign="top">
 
-<p align="center">
-  <a href="https://www.github.com/divinwix-12">
-    <img src="https://komarev.com/ghpvc/?username=divinwix-12&label=Profile%20Views&color=0891b2&style=flat" alt="Profile views" />
-  </a>
-  <img src="https://img.shields.io/github/followers/divinwix-12?label=Followers&style=flat&color=0891b2" alt="GitHub followers" />
+<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="360" alt="Divin" />
+
+</td>
+<td valign="top">
+
+### Howdy! 👋
+
+I'm a web developer and co-founder of **[Devigo](https://github.com/divinwix-12)**, a software and AI solutions company based in Kigali, Rwanda, serving markets across Africa.
+
+At Devigo we build custom software, SaaS platforms, AI integrations, business automation tools, and cloud infrastructure — helping businesses replace a patchwork of disconnected tools (WhatsApp Business, spreadsheets, email, separate CRMs and invoicing apps) with one unified platform.
+
+I work across the stack, from frontend interfaces to backend systems, DevOps, and increasingly AI-powered features.
+
+📍 Based in Kigali, Rwanda
+✉️ [wixdivin@gmail.com](mailto:wixdivin@gmail.com)
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📌 Quick Stats
+
+<p align="left">
+  <img src="https://img.shields.io/github/followers/divinwix-12?label=Followers&style=flat&color=0891b2" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/divinwix-12?label=Stars&style=flat&color=0891b2" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=divinwix-12&label=Profile%20Views&color=0891b2&style=flat" alt="Profile views" />
 </p>
 
 ---
 
-### 🚀 About Me
+### 🏆 Achievements
 
-- 🏢 Co-founder & Web Developer at **[Devigo](https://github.com/divinwix-12)** — software & AI solutions for African markets
-- 🛠️ I build custom software, SaaS platforms, AI integrations, and cloud infrastructure
-- 🌍 Based in **Kigali, Rwanda**
-- 💡 Currently exploring ways to bring AI automation to small and growing businesses
-- ✉️ Reach me at **[wixdivin@gmail.com](mailto:wixdivin@gmail.com)**
+<p align="left">
+  <img src="https://img.shields.io/badge/🚀-Shipped_v1-1c1917?style=for-the-badge" alt="Shipped v1" />
+  <img src="https://img.shields.io/badge/🤝-Co--founder-1c1917?style=for-the-badge" alt="Co-founder" />
+  <img src="https://img.shields.io/badge/🌍-Building_for_Africa-1c1917?style=for-the-badge" alt="Building for Africa" />
+  <img src="https://img.shields.io/badge/🤖-AI_Integrator-1c1917?style=for-the-badge" alt="AI Integrator" />
+</p>
+
+---
+
+### 📊 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=divinwix-12&theme=react-dark&bg_color=1c1917&color=0891b2&line=0891b2&point=ffffff&hide_border=true" alt="Contribution graph" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=divinwix-12&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=divinwix-12&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Streak stats" />
+</p>
 
 ---
 
@@ -94,28 +132,32 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📁 Popular Repositories
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=divinwix-12&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="divinwix-12's GitHub stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=divinwix-12&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub streak stats" />
-</p>
+> Replace these with your actual repo names — GitHub doesn't let a README pull this in automatically, so they're listed manually here.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divinwix-12&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&layout=compact" alt="Top languages" />
-</p>
+<table>
+<tr>
+<td width="50%">
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=divinwix-12&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" />
-</p>
+**[repo-name-one](https://github.com/divinwix-12)**
+One-line description of what it does.
+⭐ stars · 🍴 forks
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=divinwix-12&theme=react-dark&bg_color=1c1917&color=0891b2&line=0891b2&point=ffffff&hide_border=true" alt="Contribution graph" />
-</p>
+</td>
+<td width="50%">
+
+**[repo-name-two](https://github.com/divinwix-12)**
+One-line description of what it does.
+⭐ stars · 🍴 forks
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🌐 Connect With Me
+### 🌐 Connect
 
 <p align="left">
   <a href="https://www.github.com/divinwix-12" target="_blank" rel="noreferrer">
@@ -124,10 +166,4 @@
   <a href="mailto:wixdivin@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail.svg" width="32" height="32" alt="Email" title="Email" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0891B2&height=100&section=footer" alt="footer wave" />
 </p>
